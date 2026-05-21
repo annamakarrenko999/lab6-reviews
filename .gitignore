@@ -3,6 +3,5 @@ __pycache__/
 .env 
 .pytest_cache/ 
 migrations/ 
-media/ 
 .DS_Store 
 venv/ 
